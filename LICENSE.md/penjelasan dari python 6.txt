@@ -1,0 +1,9 @@
+input (masukan)
+input maksudnya memasukan nilai dari user (pengguna)ke 
+program PYTHON.kita menggunakan fungsi bawaan PYTHON
+untuk melakukanya 
+penggunaanya:
+input()
+ketika kita mengetikan input maka python akan menunggu
+untuk supaya python menyimpan kita buat sebuah wadah 
+yaitu nama  

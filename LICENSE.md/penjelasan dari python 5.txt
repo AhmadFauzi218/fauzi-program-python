@@ -1,0 +1,53 @@
+variable                     
+nama  = "ahmad"      => str (string)
+usia    = 23                =>int(integer)
+tinggi  =1.65             =>float(floating point)
+hidup  = true             =>bool(boolean)
+
+str (string)
+ketika python mendapat perintah
+nama  = "ahmad"
+-python mengkalkulasi nilai di kanan setelah "="
+-menyimpan nilai tersebut kelokasi memory
+-menempatkan lokasi memory tersebut dengan identifier NAMA
+-karena nilai nya karakter ,maka tipe varabel ini adalah STR
+SEKARANG PYTHON MEMPUNYAI SEBUAH VARIABLE DENGAN
+IDENTIFIER nama DENGAN NILAINYA "ahmad" TIPE str 
+fungsi bawaan type ini untuk untuk mncari tahu tipe dari sebuah variable ini bawaan 
+python
+
+int (integer)
+ketika python mendapat perintah :
+usia = 23
+-python mengkalkulasi nilai di kanan "="
+-menyimpan nilai tersebut ke lokasi memory
+-menempatkan lokasi memori tersebut ke  identifier USIA
+-karena nilainya bilangan bulat,maka tipe variable ini INT
+SEKARANG PYTHON INI MEMPUNYAI SEBUAH VARIABLE DENGAN 
+IDENTIFIER usia DENGAN NILAINYA 23 TIPE int 
+
+float 
+ketika python mendapat perintah:
+tinggi = 1.65
+-python mengkalkulasi nilai di kanan setelah "="
+-menyimpan nilai tersebut ke lokasi memory
+-menempatkan lokasi memori tersebut ke identifier TINGGI
+-kerena nilai nya bilangan pecahan ,maka tipe variable ini FLOAT
+SEKARANG PYTHON INI MEMPUNYAI SEBUAH VARIABLE DENGAN 
+IDENTIFIER tinggi DENGAN NILAINYA 1.65 TIPE float
+
+bool 
+ketika python mendapat perintah:
+hidup  =  true
+-python mengkalkulasi nilai di kanan setelah "="
+-menyimpan nilai tersebut ke lokasi memory
+-menempatkan lokasi memori tersebut ke identifier HIDUP
+-kerena nilai nya bilangan pecahan ,maka tipe variable ini BOOL
+SEKARANG PYTHON INI MEMPUNYAI SEBUAH VARIABLE DENGAN 
+IDENTIFIER hidup DENGAN NILAINYA true TIPE bool
+
+
+
+
+ 
+ 

@@ -1,0 +1,15 @@
+pyton 
+di tulis oleh guido van rossum 
+tahun 1991 alasan mepelajari pyton 
+1.mudah dipelajari
+2.untuk dasar mempelajari bahasa pemrograman
+(karena bahasa pyton ini sama dengan bahasa modern yang lainya menggunakan parademe
+yang sama yaitu object orienten programing atau oop /pbo pemrograman
+berorientasi object )
+3.pyton itu populer untuk kerja 
+4.bedanya menggunakan yang item sama yang idls yang putih
+kalo yang item kita hanya mengetikan satu perintah lalu di eksekusi
+ngga bisa dua perintah di eksekusi itu ngga bisa karena setiap
+perintah kita enter itu di eksekusi kalo menggunaka idl itu
+ngga karena kita bisa menggunakan banyak perintah sekaligus 
+dalam satu file dan kemudian di eksekusinya satu kali

@@ -1,0 +1,25 @@
+tidak memakai sama dengan jadi langsung di eksekusi secara langsung
+untuk  di pyton itu pembagian simbolnya (/) ini akan hasil float in
+foint (itu pecahan kalo di bahasa indonesia pakai koma kalo koma 
+di komputer itu memakai titik)
+yang 6 ga ada koma itu dinamakan integer ,integer itu bilangan bulat
+jadi ga ada koma -komanya
+di pyton bisa menampilkan tulisan dengan printah print
+yang hello word itu namanya print stetment
+stetment adalah perintah yang kita inputkan yang bisa 
+di eksekusi/dijalankan oleh python
+jadi  perintah dari kita terus bisa di eksekusi oleh python 
+itu namanya stetment nah kalo yang tulisan namanya 
+print stetment
+saint ment stetment
+(jadi kita memberikan nilai kepada sebuah nama atau variabel atau 
+object)
+saint ment stetment ngga mengeluarkan hasilnya tapi dia menyimpan didalam memori 
+python ini a itu sama dengan  10*2 itu di eksekusi trus disimpan ke variabel a
+untuk mengeluarkan hasil dari variabel a itu kita tulis dengan perintah print atau 
+print stetment
+kalo memakai plus itu digabungkan
+kalo memakai spasi itu koma
+kalo huruf di tambahkan sama angka yaitu error
+kalo string sama integer itu ngga mau tapi kalo
+string sama string itu bisa

@@ -1,0 +1,25 @@
+varaiabel:
+adalah lokasi dimana memory komputer untuk 
+menyimpan nilai 
+untuk penulisanya
+nama_varibel  = nilai
+contoh variabel:
+nama_aku ="ahmad"
+berat_badan =50
+tinggi_badan =1,65
+kalo bilangan bulat python langsung tahu bahwa ini integer
+kalo pecahan python langsung tahu bahwa ini float int foint
+identifier:
+adalah nama yang diberikan kepada entitas seperti variabel 
+function,object,dsbg
+bedanya variabel dengan identifier:
+identifier cuma buat ngidentifikasi doang dari sebuah entitas
+variabel lokasi untuk menyimpan nilai
+aturan menulis nama identifier:
+1.case sensitif (A dan a itu beda)
+2.hanya boleh menggunakan huruf,angka, dan _ (garis bawah)
+3.jangan dimulai dengan angka 
+4.jangan sama dengan keyword python
+(maksudnya adalah kata-kata yang digunakan olehn python dalam bahasa pemrograman
+python seperti false,none,true. )
+garis bawah untuk menggabungkan nama variabel yang bisanya di gunakan untuk 2 kata
